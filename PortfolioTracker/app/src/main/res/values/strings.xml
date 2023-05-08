@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">PortfolioTracker</string>
+
+    <string name="balance">1000.0</string>
+    <string name="expand">Expand</string>
+    <string name="collapse">Collapse</string>
+    <string name="description">Description</string>
+    <string name="exchange">Exchange</string>
+    <string name="currency">Currency</string>
+    <string name="country">Country</string>
+    <string name="sector">Sector</string>
+    <string name="_52_week_high">52 Week High</string>
+    <string name="_52_week_low">52 Week Low</string>
+    <string name="_1_month">1 Month</string>
+    <string name="_1_day">1 Day</string>
+    <string name="charts">Charts</string>
+    <string name="_1_year">1 year</string>
+    <string name="_5_years">5 Years</string>
+    <string name="sell">Sell</string>
+    <string name="buy">Buy</string>
+    <string name="zeroValue">0.0</string>
+    <string name="you_will_receive">You will receive: $</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="this_will_cost_you">This will cost you: $</string>
+    <string name="current_balance">Current balance: $</string>
+    <string name="deduct_from_balance">Deduct Balance</string>
+    <string name="add_to_balance">Add Balance</string>
+    <string name="stocks_owned">Stocks Owned</string>
+    <string name="shares">&#160;share(s)</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="current_price_per_share">Current price per share: $</string>
+    <string name="quantity_owned">Quantity owned:</string>
+    <string name="total_money_spent">Total money spent: $</string>
+    <string name="current_value">Current Value: $</string>
+    <string name="change_in_value">Change in value:</string>
+    <string name="stock_history">Stock History</string>
+    <string name="change_with_variable">&#160;%3$s$%1$.2f (%3$s%2$.2f%%)</string>
+    <string name="currentprice">$%1$.2f</string>
+    <string name="percentChange">%1$.2f%%</string>
+    <string name="symbol">Symbol</string>
+    <string name="type">Type</string>
+    <string name="amount">Amount</string>
+    <string name="price">Price</string>
+
+</resources>
